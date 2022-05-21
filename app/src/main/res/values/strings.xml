@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Photo Editor</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="exit">Exit</string>
+    <string name="photo_content_desc">Image being edited.</string>
+    <string name="share">Share</string>
+    <string name="expose">expose</string>
+    <string name="balance">balance</string>
+    <string name="save">Save and Exit</string>
+    <string name="send_to">Send to</string>
+    <string name="invert_colors">Invert Colors</string>
+    <string name="undo">Undo</string>
+</resources>
